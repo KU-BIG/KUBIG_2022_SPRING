@@ -1,7 +1,7 @@
 # Natural Language Processing
 고려대학교 데이터 사이언스 학회 KUBIG에서 2022년 겨울방학에 진행한 자연어처리 스터디입니다.  
 * 분반장: 기다연
-* [**NLP Study Notion**](https://zoeylaboratory.notion.site/KUBIG-2022-Winter-NLP-b9658432b517473d82a224857b3015c2)에서 개인 별 과제 등 더 자세한 스터디 진행 내용을 확인하실 수 있습니다. 
+* [**2022-Winter NLP Study Notion**](https://zoeylaboratory.notion.site/KUBIG-2022-Winter-NLP-b9658432b517473d82a224857b3015c2)에서 개인 별 과제 등 더 자세한 스터디 진행 내용을 확인하실 수 있습니다. 
 
 <br>
 

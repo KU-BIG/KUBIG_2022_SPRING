@@ -22,7 +22,7 @@
 |2주차|End to End ML Pipeline|개인 코딩 과제: 단계별 학습|
 |3주차|Classification|개인 코딩 과제: Kaggle 분류 코드 리딩|
 |4주차|Regression|개인 코딩 과제: Kaggle 예측 코드 리딩|
-|5주차|SVM & Decision Tree|그룹 프로젝트: 영화 관객 수 예측, 선수 이적료 예측, 게임 평점 예측, 중고차 시세 예측|
+|5주차|SVM & Decision Tree|그룹 프로젝트: 영화 관객 수 예측 / 선수 이적료 예측 / 게임 평점 예측 / 중고차 시세 예측|
 |6주차|Ensemble1|그룹 프로젝트|
 |7주차|Ensemble2 & AutoML(pycaret)|그룹 프로젝트 발표|
 

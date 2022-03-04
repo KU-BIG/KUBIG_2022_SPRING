@@ -2,9 +2,10 @@
 ## KUBIG CONTEST: Machine Learning
 
 ### 대회 소개
-데이콘 병원 개/폐업 예측 경진대회
+##### 데이콘 병원 개/폐업 예측 경진대회
 
 <img width="435" alt="캡처" src="https://user-images.githubusercontent.com/79184083/156677600-398dc8eb-c518-45bc-9a74-e842472904eb.PNG">
+
 * 최근 2개년의 재무정보와 병원 정보를 사용해 병원의 개업 또는 폐업 여부를 예측하는 대회
 * 지도학습/정형데이터를 바탕으로 진행하는 분류 프로젝트
 

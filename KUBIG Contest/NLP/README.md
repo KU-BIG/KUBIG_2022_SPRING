@@ -2,8 +2,8 @@
 <b>분반원:</b> 쿠빅 12기 원윤정, 14기 제갈예빈, 이연정, 15기 김진수
 
 ## 대회 소개
-<b>DACON 뉴스 토픽 분류 AI 경진대회</b>
-<br>
+### DACON 뉴스 토픽 분류 AI 경진대회
+
 ![initial](https://user-images.githubusercontent.com/81248507/158175477-0f50a7c6-923e-47ac-ab69-95db23dc8e26.png)
 
 - **Task**: 연합 뉴스 헤드라인을 데이터 세트로 활용해 뉴스의 주제를 분류하는 text classification

@@ -14,18 +14,18 @@
 ### 스터디 커리큘럼
 |일정|주제|내용
 |---|---|---|
-|03/17|Sampling Distribution 팀 별 회의|
-|03/24|Sampling Distribution 전체 스터디|
-|03/31|Significance testing 팀 별 회의|1. Hypothesis Testing and Resampling </br> 2. Statistical Significance, p-value, and t-test </br> 3. ANOVA </br> 4. Multi-Arm bandit Algorithm 
-|04/08|Significance testing 전체 스터디| 
-|05/06|Regression 팀 별 회의|
-|05/12|Regression 전체 스터디|
-|05/20|Classification 팀 별 회의|
-|05/26|Classification 전체 스터디|
-|06/30|Statisitical Machine Learning 팀 별 회의|
-|07/07|Statisitical Machine Learning 전체 스터디|
-|07/14|Unsupervised Learning 팀 별 회의|
-|07/21|Unsupervised Learning 전체 스터디|
+|03/17|Sampling Distribution 팀 별 회의|1. Random Sampling and Sample Bias </br> 2. Sampling Distribution of a Statistic </br> 3. Normal Distribution & t- Distribution </br> 4. Binomial, Chi-Square, F, Poisson Distribution|
+|03/24|Sampling Distribution 전체 스터디| Q&A 및 추가 세션 진행|
+|03/31|Significance testing 팀 별 회의|1. Hypothesis Testing and Resampling </br> 2. Statistical Significance, p-value, and t-test </br> 3. ANOVA </br> 4. Multi-Arm bandit Algorithm|
+|04/08|Significance testing 전체 스터디| Q&A 및 추가 세션 진행|
+|05/06|Regression 팀 별 회의|1. Simple & Multiple Linear Regression </br> 2. Prediction & Factor Variables in Regression </br> 3. Interpreting the Regression </br> 4. Polynomial & Spline Regression|
+|05/12|Regression 전체 스터디|Q&A 및 추가 세션 진행|
+|05/20|Classification 팀 별 회의|1. Naive Bayes & Discriminant Analysis </br> 2. Logistic Regression </br> 3. Evaluating Classification Models </br> 4. Strategies for Imbalanced Data|
+|05/26|Classification 전체 스터디|Q&A 및 추가 세션 진행|
+|06/30|Statisitical Machine Learning 팀 별 회의|1. K-Nearest Neighbors </br> 2. Tree Models </br> 3. Bagging & Random Forest </br> 4. Boosting|
+|07/07|Statisitical Machine Learning 전체 스터디|Q&A 및 추가 세션 진행|
+|07/14|Unsupervised Learning 팀 별 회의|1. Principal Component Analysis </br> 2. K-means & Hierachical Clustering </br> 3. Model-Based Clustering </br> 4. Scaling & Categorical Variables|
+|07/21|Unsupervised Learning 전체 스터디|Q&A 및 추가 세션 진행|
 
 ### 스터디 운영방식
 #### (1) 팀 별 회의

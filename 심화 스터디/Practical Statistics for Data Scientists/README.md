@@ -12,12 +12,12 @@
 개설되었습니다.
 
 ### 스터디 커리큘럼
-|일정|내용|
-|---|---|
+|일정|주제|내용
+|---|---|---|
 |03/17|Sampling Distribution 팀 별 회의|
 |03/24|Sampling Distribution 전체 스터디|
-|03/31|Significance testing 팀 별 회의|
-|04/08|Significance testing 전체 스터디|
+|03/31|Significance testing 팀 별 회의|1. Hypothesis Testing and Resampling </br> 2. Statistical Significance, p-value, and t-test </br> 3. ANOVA </br> 4. Multi-Arm bandit Algorithm 
+|04/08|Significance testing 전체 스터디| 
 |05/06|Regression 팀 별 회의|
 |05/12|Regression 전체 스터디|
 |05/20|Classification 팀 별 회의|

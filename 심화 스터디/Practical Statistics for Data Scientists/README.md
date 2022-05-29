@@ -39,3 +39,4 @@
 * 게시물 댓글 작성 (피드백, 코멘트 등)
 * 댓글 답변 준비하여 전체 스터디에서 브리핑 진행
 
+### [티스토리 블로그](https://kubig-2022-1.tistory.com/category/%EC%8B%AC%ED%99%94%20%EC%8A%A4%ED%84%B0%EB%94%94/Practical%20Statistics%20for%20Data%20Scientists)

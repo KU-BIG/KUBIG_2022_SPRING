@@ -10,12 +10,12 @@
 ### 스터디 커리큘럼
 |일정|주제|내용
 |---|---|---|
-|1주차|||
-|2주차|||
-|3주차|||
-|4주차|||
-|5주차|||
-|6주차|||
+|1주차|Object Detection|Faster R-CNN, YOLO 논문리뷰|
+|2주차|Object Detection|Faster R-CNN, YOLO 코드실습|
+|3주차|Segmentation|Unet, UPSNet 논문리뷰|
+|4주차|Segmentation|Unet, UPSNet 코드실습|
+|5주차|Captioning|show and tell, show attend and tell 논문리뷰|
+|6주차|Captioning|show and tell, show attend and tell 코드실습|
 
 ### [티스토리 블로그](https://kubig-2022-1.tistory.com/category/%EC%8B%AC%ED%99%94%20%EC%8A%A4%ED%84%B0%EB%94%94/%EC%9D%B4%EB%AF%B8%EC%A7%80)
 더 많은 내용은 티스토리 블로그에서 확인하실 수 있습니다.

@@ -17,6 +17,6 @@
 |5주차|||
 |6주차|||
 
-#### [티스토리 블로그]([https://kubig-2022-1.tistory.com/category/%EC%8B%AC%ED%99%94%20%EC%8A%A4%ED%84%B0%EB%94%94/Practical%20Statistics%20for%20Data%20Scientists](https://kubig-2022-1.tistory.com/category/%EC%8B%AC%ED%99%94%20%EC%8A%A4%ED%84%B0%EB%94%94/%EC%9D%B4%EB%AF%B8%EC%A7%80))
+### [티스토리 블로그](https://kubig-2022-1.tistory.com/category/%EC%8B%AC%ED%99%94%20%EC%8A%A4%ED%84%B0%EB%94%94/%EC%9D%B4%EB%AF%B8%EC%A7%80)
 더 많은 내용은 티스토리 블로그에서 확인하실 수 있습니다.
 

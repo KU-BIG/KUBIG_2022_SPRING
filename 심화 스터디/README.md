@@ -22,5 +22,10 @@
   - 홍보 효과 기대
 
 ### 스터디 소개
-|스터디 팀|Practical Statistics </br> for Data Scientists|강화학습이라는 </br> Fozen Lake 걸어보기|국내 주식 종가 </br> 예측 스터디|분류 예측 스터디|시각화 스터디 </br> with Tableau|이미지 스터디|
+* Practical Statistics for Data Scientists
+* 강화학습이라는 Fozen Lake 걸어보기
+* 국내 주식 종가 예측 스터디
+* 분류 예측 스터디
+* 시각화 스터디 with Tableau
+* 이미지 스터디
 

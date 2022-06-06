@@ -22,6 +22,7 @@
   - 홍보 효과 기대
 
 ### 스터디 소개
+** KUBIG 15기에서는 총 6개의 스터디가 개설되어 각자의 커리큘럼을 바탕으로 스터디가 진행되었습니다.
 * Practical Statistics for Data Scientists
 * 강화학습이라는 Fozen Lake 걸어보기
 * 국내 주식 종가 예측 스터디
